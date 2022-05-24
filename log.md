@@ -6,7 +6,7 @@
 
 **Thoughts:** Still sort of struggling with getting started with JS. Think I need to slow down and think more about the logic behind what I need the code to do. Losing my patience pretty quickly when things don't work the first time, but that patience will come with time (hopefully)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Dice Game](https://eireann07.github.io/dice-game/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
