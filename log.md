@@ -7,23 +7,20 @@
 **Thoughts:** Still sort of struggling with getting started with JS. Think I need to slow down and think more about the logic behind what I need the code to do. Losing my patience pretty quickly when things don't work the first time, but that patience will come with time (hopefully)
 
 **Link to work:** [Dice Game](https://eireann07.github.io/dice-game/)
+_______________________
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: May 25, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed the Advanced JS and DOM for App Brewery; began working with jQuery library. Completed the Drum Kit game project!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Remember to proofread! I spent like 20 minutes frustrated with my code...only to see that I misspelled "button"...
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work** [Drum Kit](https://eireann07.github.io/drum-kit/)
+_______________________
 
+### Day 2: May 26, 2022
 
-### Day 1: June 27, Monday
+**Today's Progress**: Finished up the jQuery module in App Brewery and the C Arrays lecture in CS50. Began work on the Simon Game for App Brewery and opened the VS code page for CS50 homework. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** It's helpful to have Bri along for the journey...I was super skeptical about paired programming and I think a huge part of that was not knowing how to find other programmers. Having a friend who can look at your code is so helpful. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
