@@ -44,3 +44,12 @@ _______________________
 **Today's Progress**: Made really good progress on the Simon game in JS for App Brewery. Finally feel like I'm getting JS more.  
 
 **Thoughts:** In talking with the engineers during the GDI's CF AMA today, JS is a hugely important language. jQuery makes everything so much easier, but I'm worried that I don't have as firm enough of a grip on JS to really do a tech interview or anything. Once I finish the App Brewery work, I'm going to slowly work through Codecademy's Full Stack work just to maintain the knowledge. 
+_______________________
+
+### Day 6: June 1, 2022
+
+**Today's Progress**: Finished jQuery Simon game! Once I got the code working, I went back into the jQuery documentation to figure out how to make the events responsive so I can play the game on my phone. V excited when it worked!
+
+**Thoughts:** I honestly have no idea how people fully functioned with just vanilla JS. I mean possible? Absolutely. But does jQuery, etc make it so.much.less annoying? Hard yes. 
+
+**Link to work:** [Simon Game](https://eireann07.github.io/simon-game/)
