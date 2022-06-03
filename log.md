@@ -53,3 +53,10 @@ _______________________
 **Thoughts:** I honestly have no idea how people fully functioned with just vanilla JS. I mean possible? Absolutely. But does jQuery, etc make it so.much.less annoying? Hard yes. 
 
 **Link to work:** [Simon Game](https://eireann07.github.io/simon-game/)
+_______________________
+
+### Day 7: June 3, 2022
+
+**Today's Progress**: Moved further into the backend work in my bootcamp and am high key excited. Did I spend over an hour cranking out supervillain names with the NPM package for Node? Yes. Am I sorry? No. 
+
+**Thoughts:** Trying to finish the school year while responsible for 150+ high school students, included state and AP testing, and getting seniors ready to graduate while also moving through my bootcamp was rough but I did it, so I can absolutely get through a week of scoring the AP Literature exam while finishing up my bootcamp. Only 27 days left of bootcamp!!!
