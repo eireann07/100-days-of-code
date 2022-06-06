@@ -60,3 +60,17 @@ _______________________
 **Today's Progress**: Moved further into the backend work in my bootcamp and am high key excited. Did I spend over an hour cranking out supervillain names with the NPM package for Node? Yes. Am I sorry? No. 
 
 **Thoughts:** Trying to finish the school year while responsible for 150+ high school students, included state and AP testing, and getting seniors ready to graduate while also moving through my bootcamp was rough but I did it, so I can absolutely get through a week of scoring the AP Literature exam while finishing up my bootcamp. Only 27 days left of bootcamp!!!
+_______________________
+
+### Day 8: June 4, 2022
+
+**Today's Progress**: Did a for-funsies vanilla CSS project that I found on Codecademy.  Local publish only. 
+
+**Thoughts:** Who likes vanilla CSS. Not. Me. 
+_______________________
+
+### Day 9: June 5, 2022
+
+**Today's Progress**: FINISHED THE CAESAR PROJECT FOR CS50. It only took me 5-ever. 
+
+**Thoughts:** I think that the CS50 stuff is really forcing me to slow down and get a lot stronger with CS fundamentals. That said, I feel like my programming logic is a little different -- pseudocoding is super helpful, and I find it really helpful to physically draw what I want a program to do first and then backwards plan it. A lot more like lesson planning than I thought. 
