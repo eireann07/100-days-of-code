@@ -74,3 +74,17 @@ _______________________
 **Today's Progress**: FINISHED THE CAESAR PROJECT FOR CS50. It only took me 5-ever. 
 
 **Thoughts:** I think that the CS50 stuff is really forcing me to slow down and get a lot stronger with CS fundamentals. That said, I feel like my programming logic is a little different -- pseudocoding is super helpful, and I find it really helpful to physically draw what I want a program to do first and then backwards plan it. A lot more like lesson planning than I thought. 
+_______________________
+
+### Day 10: June 6, 2022
+
+**Today's Progress**: Played around with some stupid old MySpace-style HTML just for fun :) 
+
+**Thoughts:** Signed up for GDI's React class to refresh what I've aready learned!
+_______________________
+
+### Day 11: June 7, 2022
+
+**Today's Progress**: Completed some basic JS coding challenges from Codecademy since I didn't have as much time as I would have liked to do moreiwth CS50 or Angela's bookcamp. 
+
+**Thoughts:** I signed up for GDI's React class because I really feel like I've got JS now, but I want to be doubly sure I really get it...I feel like this will be a good way to reinforce what I'm learning from Angela's bootcamp.
