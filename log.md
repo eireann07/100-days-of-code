@@ -88,3 +88,17 @@ _______________________
 **Today's Progress**: Completed some basic JS coding challenges from Codecademy since I didn't have as much time as I would have liked to do moreiwth CS50 or Angela's bookcamp. 
 
 **Thoughts:** I signed up for GDI's React class because I really feel like I've got JS now, but I want to be doubly sure I really get it...I feel like this will be a good way to reinforce what I'm learning from Angela's bootcamp.
+_______________________
+
+### Day 12: June 8, 2022
+
+**Today's Progress**: Worked through some low-level JS challenges for the extra practice, especially with ES6 syntax. Aslo began building a server with Express with Node! 
+
+**Thoughts:** Building a server with Express is seriously super cool. Like super cool. And I really like feeling more and more comfortable with JS. This whole code-for-at-least-and-hour-a-day thing is super effective. Hooray, I'm a programmer!
+_______________________
+
+### Day 13: June 9, 2022
+
+**Today's Progress**: Did about an hour of JS practice (little coding challenges, nothing crazy) and then did a whole bunch of React work.
+
+**Thoughts:** I, like, genuinely feel like I'm getting good at this. Looking for *offical* project to really build and stretch my skills.
