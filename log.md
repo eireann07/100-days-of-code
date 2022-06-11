@@ -102,3 +102,11 @@ _______________________
 **Today's Progress**: Did about an hour of JS practice (little coding challenges, nothing crazy) and then did a whole bunch of React work.
 
 **Thoughts:** I, like, genuinely feel like I'm getting good at this. Looking for *offical* project to really build and stretch my skills.
+_______________________
+
+### Day 14: June 11, 2022
+
+**Today's Progress**: Continued to build a locally hosted server with Express; went to Azure cloud computing class
+
+**Thoughts:** Okay, yes I know cloud computing is not the same thing as coding, but after losing my mind with the AP Lit reading this week, I needed something that required less active screen watching on my end! Really excited for my React class tomorrow and very excited to get back into more regular coding after a week of the AP Lit reading.
+
