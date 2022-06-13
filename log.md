@@ -109,4 +109,10 @@ _______________________
 **Today's Progress**: Continued to build a locally hosted server with Express; went to Azure cloud computing class
 
 **Thoughts:** Okay, yes I know cloud computing is not the same thing as coding, but after losing my mind with the AP Lit reading this week, I needed something that required less active screen watching on my end! Really excited for my React class tomorrow and very excited to get back into more regular coding after a week of the AP Lit reading.
+_______________________
 
+### Day 15: June 13, 2022
+
+**Today's Progress**: Did some small JS projects on Codecademy just for fun and then spent quite a while with my React program. 
+
+**Thoughts:** Pseudocode is amazing. Also I probably sound like an idiot talking through my code as I debug it or figure out what I want to do. But hey, Prof. Malan said rubber-ducking is a thing. And I even have a rubberduck. That make it legit, right?
