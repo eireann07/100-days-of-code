@@ -111,7 +111,14 @@ _______________________
 **Thoughts:** Okay, yes I know cloud computing is not the same thing as coding, but after losing my mind with the AP Lit reading this week, I needed something that required less active screen watching on my end! Really excited for my React class tomorrow and very excited to get back into more regular coding after a week of the AP Lit reading.
 _______________________
 
-### Day 15: June 13, 2022
+### Day 15: June 12, 2022
+
+**Today's Progress**: Finished building my little BMI calculator web app wtih Express! Moving onto API integration...
+
+**Thoughts:** I really like this coding thing. It's like a puzzle. But even bigger than a 3000 piece puzzle. When I think about it that way, it's way less stressful and way more fun.
+_______________________
+
+### Day 16: June 13, 2022
 
 **Today's Progress**: Did some small JS projects on Codecademy just for fun and then spent quite a while with my React program. 
 
