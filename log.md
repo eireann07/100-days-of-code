@@ -123,3 +123,11 @@ _______________________
 **Today's Progress**: Did some small JS projects on Codecademy just for fun and then spent quite a while with my React program. 
 
 **Thoughts:** Pseudocode is amazing. Also I probably sound like an idiot talking through my code as I debug it or figure out what I want to do. But hey, Prof. Malan said rubber-ducking is a thing. And I even have a rubberduck. That make it legit, right?
+
+_______________________
+
+### Day 17: June 14, 2022
+
+**Today's Progress**: Used Open Weather API to create a weather web app using JS & Node. Built and deployed a Mailchimp API-backed newsletter subscription page.  
+
+**Thoughts:** The high that comes from debugging your program is just glorious. 
