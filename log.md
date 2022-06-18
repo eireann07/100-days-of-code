@@ -131,3 +131,25 @@ _______________________
 **Today's Progress**: Used Open Weather API to create a weather web app using JS & Node. Built and deployed a Mailchimp API-backed newsletter subscription page.  
 
 **Thoughts:** The high that comes from debugging your program is just glorious. 
+_______________________
+
+### Day 18: June 15, 2022
+
+**Today's Progress**: Did some work on the Mailchimp API/Node/Express web app I've been building. Felt really proud of myself because the instructions/tutorials were deprecated so I had to do a lot of looking into the dev docs and building on my own. But I'm working on it!
+
+**Thoughts:**  I finally feel like I'm really settling into coding. While I know I'm still a junior dev, I'm genuintely starting to feel like I can do the thing.!
+
+_______________________
+
+### Day 19: June 16, 2022
+
+**Today's Progress**: Lots of React work today! Doing a lot with targeting events to get information. Shalom has been super helpful. SO MUCH progress, though! Woke up early early to tune into JS Nation (holy sh!t there are some amazing things people are doing with JS. The 3D website?? The ML with JS? SO COOL) and then flipped back and forth between CodeLand and JS Nation before doing a bunch of React work. 
+
+**Thoughts:**  React is so cool. Genuinely excited about homework.  
+_______________________
+
+### Day 20: June 17, 2022
+
+**Today's Progress**: I spent 5-ever trying to build the E.N. web app that I've been working on. But using the dev docs and Stack Overflow, I GOT IT TO DO THE THING. HUZZAH. And then I deployed my server using Heroku. I feel legit accomplished today. 
+
+**Thoughts:**  *contented sigh* 
